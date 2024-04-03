@@ -1,0 +1,225 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "answers": [
+          {"id": 1, "text": "Paris"},
+          {"id": 2, "text": "London"},
+          {"id": 3, "text": "Berlin"},
+          {"id": 4, "text": "Rome"}
+        ],
+        "correct_answer_id": 1
+      },
+      {
+        "id": 2,
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+          {"id": 5, "text": "Mercury"},
+          {"id": 6, "text": "Venus"},
+          {"id": 7, "text": "Earth"},
+          {"id": 8, "text": "Jupiter"}
+        ],
+        "correct_answer_id": 8
+      },
+      {
+        "id": 3,
+        "question": "Who wrote the Harry Potter book series?",
+        "answers": [
+          {"id": 9, "text": "J.K. Rowling"},
+          {"id": 10, "text": "Stephen King"},
+          {"id": 11, "text": "George R.R. Martin"},
+          {"id": 12, "text": "J.R.R. Tolkien"}
+        ],
+        "correct_answer_id": 9
+      },
+      {
+        "id": 4,
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+          {"id": 13, "text": "H"},
+          {"id": 14, "text": "O"},
+          {"id": 15, "text": "HO"},
+          {"id": 16, "text": "H2O"}
+        ],
+        "correct_answer_id": 16
+      },
+      {
+        "id": 5,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answers": [
+          {"id": 17, "text": "China"},
+          {"id": 18, "text": "South Korea"},
+          {"id": 19, "text": "Japan"},
+          {"id": 20, "text": "Thailand"}
+        ],
+        "correct_answer_id": 19
+      },
+      {
+        "id": 6,
+        "question": "What is the powerhouse of the cell?",
+        "answers": [
+          {"id": 21, "text": "Nucleus"},
+          {"id": 22, "text": "Mitochondria"},
+          {"id": 23, "text": "Ribosome"},
+          {"id": 24, "text": "Endoplasmic reticulum"}
+        ],
+        "correct_answer_id": 22
+      },
+      {
+        "id": 7,
+        "question": "Who painted the Mona Lisa?",
+        "answers": [
+          {"id": 25, "text": "Vincent van Gogh"},
+          {"id": 26, "text": "Leonardo da Vinci"},
+          {"id": 27, "text": "Pablo Picasso"},
+          {"id": 28, "text": "Michelangelo"}
+        ],
+        "correct_answer_id": 26
+      },
+      {
+        "id": 8,
+        "question": "What year did the Titanic sink?",
+        "answers": [
+          {"id": 29, "text": "1912"},
+          {"id": 30, "text": "1921"},
+          {"id": 31, "text": "1905"},
+          {"id": 32, "text": "1918"}
+        ],
+        "correct_answer_id": 29
+      },
+      {
+        "id": 9,
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          {"id": 33, "text": "Earth"},
+          {"id": 34, "text": "Mars"},
+          {"id": 35, "text": "Venus"},
+          {"id": 36, "text": "Saturn"}
+        ],
+        "correct_answer_id": 34
+      },
+      {
+        "id": 10,
+        "question": "Who developed the theory of relativity?",
+        "answers": [
+          {"id": 37, "text": "Isaac Newton"},
+          {"id": 38, "text": "Galileo Galilei"},
+          {"id": 39, "text": "Albert Einstein"},
+          {"id": 40, "text": "Stephen Hawking"}
+        ],
+        "correct_answer_id": 39
+      },
+      {
+        "id": 11,
+        "question": "What is the tallest mammal in the world?",
+        "answers": [
+          {"id": 41, "text": "Elephant"},
+          {"id": 42, "text": "Giraffe"},
+          {"id": 43, "text": "Hippopotamus"},
+          {"id": 44, "text": "Rhino"}
+        ],
+        "correct_answer_id": 42
+      },
+      {
+        "id": 12,
+        "question": "What is the capital of Spain?",
+        "answers": [
+          {"id": 45, "text": "Rome"},
+          {"id": 46, "text": "Paris"},
+          {"id": 47, "text": "Madrid"},
+          {"id": 48, "text": "Berlin"}
+        ],
+        "correct_answer_id": 47
+      },
+      {
+        "id": 13,
+        "question": "Who wrote Romeo and Juliet?",
+        "answers": [
+          {"id": 49, "text": "William Shakespeare"},
+          {"id": 50, "text": "Charles Dickens"},
+          {"id": 51, "text": "Mark Twain"},
+          {"id": 52, "text": "Jane Austen"}
+        ],
+        "correct_answer_id": 49
+      },
+      {
+        "id": 14,
+        "question": "Which gas do plants use to photosynthesize?",
+        "answers": [
+          {"id": 53, "text": "Nitrogen"},
+          {"id": 54, "text": "Oxygen"},
+          {"id": 55, "text": "Carbon dioxide"},
+          {"id": 56, "text": "Helium"}
+        ],
+        "correct_answer_id": 55
+      },
+      {
+        "id": 15,
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          {"id": 57, "text": "Go"},
+          {"id": 58, "text": "Ag"},
+          {"id": 59, "text": "Au"},
+          {"id": 60, "text": "Gd"}
+        ],
+        "correct_answer_id": 59
+      },
+      {
+        "id": 16,
+        "question": "Which city is known as the Big Apple?",
+        "answers": [
+          {"id": 61, "text": "Los Angeles"},
+          {"id": 62, "text": "Chicago"},
+          {"id": 63, "text": "New York City"},
+          {"id": 64, "text": "Miami"}
+        ],
+        "correct_answer_id": 63
+      },
+      {
+        "id": 17,
+        "question": "Who painted The Starry Night?",
+        "answers": [
+          {"id": 65, "text": "Pablo Picasso"},
+          {"id": 66, "text": "Vincent van Gogh"},
+          {"id": 67, "text": "Claude Monet"},
+          {"id": 68, "text": "Salvador Dali"}
+        ],
+        "correct_answer_id": 66
+      },
+      {
+        "id": 18,
+        "question": "Which country is home to the kangaroo?",
+        "answers": [
+          {"id": 69, "text": "Australia"},
+          {"id": 70, "text": "New Zealand"},
+          {"id": 71, "text": "South Africa"},
+          {"id": 72, "text": "Brazil"}
+        ],
+        "correct_answer_id": 69
+      },
+      {
+        "id": 19,
+        "question": "What is the chemical symbol for sodium?",
+        "answers": [
+          {"id": 73, "text": "Na"},
+          {"id": 74, "text": "So"},
+          {"id": 75, "text": "Sn"},
+          {"id": 76, "text": "Ni"}
+        ],
+        "correct_answer_id": 73
+      },
+      {
+        "id": 20,
+        "question": "Who invented the telephone?",
+        "answers": [
+          {"id": 77, "text": "Alexander Graham Bell"},
+          {"id": 78, "text": "Thomas Edison"},
+          {"id": 79, "text": "Nikola Tesla"},
+          {"id": 80, "text": "Henry Ford"}
+        ],
+        "correct_answer_id": 77
+      }
+    ]
+  }
+  
